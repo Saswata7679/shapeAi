@@ -1,0 +1,18 @@
+.firstbox{
+    border: crimson 2px solid;
+}
+#internal_ul{
+    background-color: darkcyan;
+}
+ol{
+    background-color: darkgoldenrod;
+}
+p[name="first_p_tag"]{
+    background-color: darkmagenta;
+}
+body{
+    background-color: brown;
+}
+img{
+    border-radius: 50%;
+}
